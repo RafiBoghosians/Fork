@@ -1,5 +1,4 @@
-all:
-	compile run
+all: compile run
 compile:
 	gcc -o Fork Fork.c
 run:
